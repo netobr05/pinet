@@ -1,2 +1,2 @@
 # pinet
-# muito bom poder criar no git
+# muito bom poder criar no github
